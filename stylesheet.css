@@ -1,0 +1,62 @@
+h1{
+    color: blanchedalmond;
+    font-family: cursive;
+    font-size: 300%;
+}
+
+h2 {
+
+    margin-top: 10px;
+
+}
+
+body {
+    color: blanchedalmond;
+    font-family: cursive;
+    font-size: 150%;
+    background-color: blueviolet;
+
+}
+
+img {
+    
+    border-radius: 65%;
+    border: 5px;
+    border-style: dashed;
+    border-color: fuchsia;
+    margin-left: 80px;
+    
+}
+
+#icon{
+
+    margin-top: 30px;
+
+}
+
+.jumbotron{
+
+    background-color: rgb(255,0,255);
+    border-bottom-style: dashed; 
+    border-bottom-color: blueviolet;
+    border-top-style: dashed;
+    border-top-color:blueviolet;
+    margin-top: 40px;
+
+}
+
+.col-sm-12{
+
+    border-style: dashed;
+    border-color: rgba(255,0,255);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.col-sm-6{
+
+    border-style: dashed;
+    border-color: rgba(255,0,255);
+    margin-left: 135px;
+
+}
